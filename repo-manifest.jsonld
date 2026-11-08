@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/run-llama/template-workflow-extract-basic/commit/b4aad4f8e851bbab8c08407590f12ee5049cf916",
       "git:hexsha": "b4aad4f8e851bbab8c08407590f12ee5049cf916",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/run-llama/template-workflow-extract-basic/commit/9a6ce4da33bbd2ac4830ecf09a4edbfab7298edd",
