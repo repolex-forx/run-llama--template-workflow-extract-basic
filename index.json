@@ -1,0 +1,11 @@
+{
+  "org": "run-llama",
+  "repo": "template-workflow-extract-basic",
+  "versions": [
+    {
+      "commit": "b4aad4f8e851bbab8c08407590f12ee5049cf916",
+      "tag": "",
+      "parsed_at": "2026-11-08T01:22:23.374460+00:00"
+    }
+  ]
+}
